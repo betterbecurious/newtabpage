@@ -1,0 +1,43 @@
+
+
+Social
+	Reddit
+		MechanicalKeyboards
+		DIY
+		Android
+	Facebook
+	Whatsapp
+	MyDealz
+
+Media
+	Youtube
+	Netfix
+	Spotify
+	Soundcloud
+	
+Google
+	Mail
+	Calendar
+	Drive
+	Photos
+
+Dev
+	Github
+	Arch Linux Wiki
+	Stackoverflow
+	Google Saves
+		
+News
+	The Verge
+	Notebookcheck
+	Caschys Blog
+	T3N
+
+Money
+	Banking
+	Paypal
+	Amazon
+	
+	
+	
+
